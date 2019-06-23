@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PaymentCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Payments>
+    <Payment>
+      <time>2019-06-24T00:48:34.1406118+03:00</time>
+      <CardNumber>123456a812345678</CardNumber>
+      <CardHolder>someone</CardHolder>
+      <Amount>15</Amount>
+      <status>failed</status>
+    </Payment>
+    <Payment>
+      <time>2019-06-24T00:48:34.2455518+03:00</time>
+      <CardNumber>1234567812345678</CardNumber>
+      <CardHolder>me</CardHolder>
+      <Amount>350</Amount>
+      <status>succes</status>
+    </Payment>
+  </Payments>
+</PaymentCollection>

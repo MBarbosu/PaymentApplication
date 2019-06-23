@@ -1,0 +1,7 @@
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.csprojAssemblyReference.cache
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.csproj.CoreCompileInputs.cache
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.exe.config
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.exe
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.pdb
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.exe
+C:\Users\SkullFlight\source\repos\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.pdb
